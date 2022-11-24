@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hoop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Boundary
+  - Ball
+  - Simulator
+  - Basket
+  - Stop
+  - Score
+  - Event
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back_Ground
+    uniqueID: 2267432861
+    locked: 0
+  - name: Mid_Ground
+    uniqueID: 3197838055
+    locked: 0
+  - name: Force_Ground
+    uniqueID: 4234473087
+    locked: 0
